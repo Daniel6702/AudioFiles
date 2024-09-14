@@ -34,5 +34,5 @@ def rename_files(directory):
             print(f"Renamed: {filename} -> {new_name}")
 
 # Example usage
-directory = r"04_A_Song_of_Ice_and_Fire\02_A_Clash_of_Kings"  # Replace with the path to your directory
+directory = r"04_A_Song_of_Ice_and_Fire\03_A_Storm_of_Swords"  # Replace with the path to your directory
 rename_files(directory)
