@@ -1,53 +1,38 @@
 import os
 import re
 
-# Function to refactor file names
-def refactor_filename(filename):
-    # Remove "_recompressed" if present
-    filename = filename.replace("_recompressed", "")
+def rename_files(directory):
+    # Get the list of all files in the directory
+    files = sorted(os.listdir(directory))
     
-    # Remove the year in parentheses (e.g., (2014))
-    filename = re.sub(r"\(\d{4}\)", "", filename)
-    
-    # Separate the track number and the title using regex (preserve hyphens within the title)
-    match = re.match(r"(\d+)\s-\s(.+)", filename)
-    if match:
-        track_number = match.group(1)
-        title = match.group(2)
-        
-        # Replace spaces in the title with underscores
-        title = title.replace(" ", "_")
-        
-        # Strip any trailing or leading underscores
-        title = title.strip("_")
-        
-        # Combine the track number with the processed title
-        filename = f"{track_number}_{title}"
-    
-    return filename
+    # Loop through each file
+    for index, filename in enumerate(files, start=1):
+        # Only process .mp3 files
+        if filename.endswith(".mp3"):
+            # Extract the file name without extension
+            name_without_extension = os.path.splitext(filename)[0]
+            
+            # Split based on the first occurrence of "_" to separate the number and title
+            parts = name_without_extension.split("_", 1)
+            
+            # Generate the new index with two digits
+            new_index = f"{index:02d}"
 
-# Path to the directory containing the files
-directory = r"02_The_Lord_of_the_Rings\03_The_Return_of_ the_King"
+            # Format the rest of the name (replace spaces with underscores)
+            if len(parts) == 2:
+                title = parts[1].strip().replace(" ", "_")
+                new_name = f"{new_index}_{title}.mp3"
+            else:
+                new_name = f"{new_index}_{name_without_extension.replace(' ', '_')}.mp3"
+            
+            # Get the full paths
+            old_file = os.path.join(directory, filename)
+            new_file = os.path.join(directory, new_name)
+            
+            # Rename the file
+            os.rename(old_file, new_file)
+            print(f"Renamed: {filename} -> {new_name}")
 
-# Iterate over all files in the directory
-for filename in os.listdir(directory):
-    # Only process files (ignore directories)
-    if os.path.isfile(os.path.join(directory, filename)):
-        # Split the filename into name and extension
-        name, ext = os.path.splitext(filename)
-        
-        # Refactor the name
-        new_name = refactor_filename(name)
-        
-        # Construct the new filename with the original extension
-        new_filename = f"{new_name}{ext}"
-        
-        # Get the full path for old and new file names
-        old_file_path = os.path.join(directory, filename)
-        new_file_path = os.path.join(directory, new_filename)
-        
-        # Rename the file
-        os.rename(old_file_path, new_file_path)
-        print(f"Renamed: {filename} -> {new_filename}")
-
-print("File renaming complete.")
+# Example usage
+directory = r"04_A_Song_of_Ice_and_Fire\01_A_Game_of_Thrones"  # Replace with the path to your directory
+rename_files(directory)
