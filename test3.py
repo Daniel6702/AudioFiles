@@ -21,7 +21,7 @@ def rename_mp3_files(directory):
         print(f"Renamed: {filename} -> {new_name}")
 
 # Specify the path to the directory containing the mp3 files
-directory_path = r'06_Percy_Jackson_And_The_Olympians\01_The_Lightning_Thief'
+directory_path = r'06_Percy_Jackson_And_The_Olympians\02_The_Sea_Of_Monsters'
 
 # Call the function to rename files
 rename_mp3_files(directory_path)
