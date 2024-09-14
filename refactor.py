@@ -27,7 +27,7 @@ def refactor_filename(filename):
     return filename
 
 # Path to the directory containing the files
-directory = r"02_The_Lord_of_the_Rings\02_The_Two_Towers"
+directory = r"02_The_Lord_of_the_Rings\03_The_Return_of_ the_King"
 
 # Iterate over all files in the directory
 for filename in os.listdir(directory):
