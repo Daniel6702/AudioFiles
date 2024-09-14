@@ -1170,7 +1170,124 @@
                     "primary": "#8B4513",
                     "secondary": "#FFD700",
                     "tertiary": "#006400",
-                    "quaternary": "#2E8B57"
+                    "quaternary": "#2E8B57",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "A Long Expected Party",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/01_A_Long-Expected_Party.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "The Shadow Of The Past",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/02_The_Shadow_of_the_Past.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Three Is Company",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/03_Three_Is_Company.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "A Shortcut To Mushrooms",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/04_A_Shortcut_to_Mushrooms.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "A Conspiracy Unmasked",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/05_A_Conspiracy_Unmasked.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "The Old Forest",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/06_The_Old_Forest.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "In The House Of Tom Bombadil",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/07_In_The_House_of_Tom_Bombadil.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Fog On The Barrow Downs",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/08_Fog_on_the_Barrow_Downs.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "At The Sign Of The Prancing Pony",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/09_At_the_Sign_of_the_Prancing_Pony.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Strider",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/10_Strider.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "A Knife In The Dark",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/11_A_Knife_in_the_Dark.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Flight To The Ford",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/12_Flight_to_the_Ford.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Many Meetings",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/13_Many_Meetings.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "The Council Of Elrond 1",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/14_The_Council_of_Elrond_1.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "name": "The Council Of Elrond 2",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/14_The_Council_of_Elrond_2.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "name": "The Ring Goes South",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/15_The_Ring_Goes_South.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "name": "A Journey In The Dark",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/16_A_Journey_In_The_Dark.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "name": "The Bridge Of Khazad Dum",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/17_The_Bridge_of_Khazad-Dum.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Lothlorien",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/18_Lothlorien.mp3"
+                        },
+                        {
+                            "id": 20,
+                            "name": "Mirror Of Galadriel",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/19_Mirror_of_Galadriel.mp3"
+                        },
+                        {
+                            "id": 21,
+                            "name": "Farewell To Lorien",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/20_Farewell_to_Lorien.mp3"
+                        },
+                        {
+                            "id": 22,
+                            "name": "The Great River",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/21_The_Great_River.mp3"
+                        },
+                        {
+                            "id": 23,
+                            "name": "The Breaking Of The Fellowship",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring/22_The_Breaking_of_the_Fellowship.mp3"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
@@ -1184,7 +1301,119 @@
                     "primary": "#8B4513",
                     "secondary": "#FFD700",
                     "tertiary": "#006400",
-                    "quaternary": "#2E8B57"
+                    "quaternary": "#2E8B57",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "The Departure Of Boromir",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/01_The_Departure_of_Boromir.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "The Riders Of Rohan",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/02_The_Riders_of_Rohan.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "The Uruk Hai",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/03_The_Uruk-Hai.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Treebeard 1",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/04_Treebeard_1.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Treebeard 2",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/04_Treebeard_2.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "The White Rider",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/05_The_White_Rider.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "The King Of The Golden Hall",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/06_The_King_of_the_Golden_Hall.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Helms Deep",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/07_Helms_Deep.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "The Road To Isengard",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/08_The_Road_to_Isengard.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Flotsam & Jetsam",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/09_Flotsam_&_Jetsam.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "The Voice Of Saruman",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/10_The_Voice_of_Saruman.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "The Palantir",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/11_The_Palantir.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "The Taming Of Smeagol",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/12_The_Taming_of_Smeagol.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "The Passage Of The Marshes",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/13_The_Passage_of_the_Marshes.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "name": "The Black Gate Is Closed",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/14_The_Black_Gate_is_Closed.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "name": "Of Herbs And Stewed Rabbit",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/15_Of_Herbs_and_Stewed_Rabbit.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "name": "The Window On The West",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/16_The_Window_On_The_West.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "name": "The Forbidden Pool",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/17_The_Forbidden_Pool.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Journey To The Cross Roads",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/18_Journey_To_The_Cross-Roads.mp3"
+                        },
+                        {
+                            "id": 20,
+                            "name": "The Stairs Of Cirith Ungol",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/19_The_Stairs_of_Cirith_Ungol.mp3"
+                        },
+                        {
+                            "id": 21,
+                            "name": "Shelobs Lair",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/20_Shelobs_Lair.mp3"
+                        },
+                        {
+                            "id": 22,
+                            "name": "The Choices Of Master Samwise",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/02_The_Two_Towers/21_The_Choices_of_Master_Samwise.mp3"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
@@ -1198,7 +1427,114 @@
                     "primary": "#8B4513",
                     "secondary": "#FFD700",
                     "tertiary": "#006400",
-                    "quaternary": "#2E8B57"
+                    "quaternary": "#2E8B57",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Minas Tirith 1",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/01_Minas_Tirith_1.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Minas Tirith 2",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/01_Minas_Tirith_2.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "The Passing Of The Grey Company",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/02_The_Passing_of_the_Grey_Company.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "The Muster Of Rohan",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/03_The_Muster_of_Rohan.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "The Siege Of Gondor 1",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/04_The_Siege_of_Gondor_1.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "The Siege Of Gondor 2",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/04_The_Siege_of_Gondor_2.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "The Ride Of The Rohirrim",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/05_The_Ride_of_the_Rohirrim.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "The Battle Of The Pelennor Fields",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/06_The_Battle_of_the_Pelennor_Fields.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "The Pyre Of Denethor",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/07_The_Pyre_of_Denethor.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "The Houses Of Healing",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/08_The_Houses_of_Healing.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "The Last Debate",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/09_The_Last_Debate.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "The Black Gate Opens",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/10_The_Black_Gate_Opens.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "The Tower Of Cirith Ungol",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/11_The_Tower_of_Cirith_Ungol.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "The Land Of Shadow",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/12_The_Land_of_Shadow.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "name": "Mount Doom",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/13_Mount_Doom.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "name": "The Field Of Cormallen",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/14_The_Field_of_Cormallen.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "name": "The Steward And The King",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/15_The_Steward_and_the_King.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Many Partings",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/16_Many_Partings.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Homeward Bound",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/17_Homeward_Bound.mp3"
+                        },
+                        {
+                            "id": 20,
+                            "name": "The Scouring Of The Shire",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/18_The_Scouring_of_the_Shire.mp3"
+                        },
+                        {
+                            "id": 21,
+                            "name": "The Grey Havens",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/03_The_Return_of_the_King/19_The_Grey_Havens.mp3"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
@@ -1212,7 +1548,8 @@
                     "primary": "#8B4513",
                     "secondary": "#FFD700",
                     "tertiary": "#006400",
-                    "quaternary": "#2E8B57"
+                    "quaternary": "#2E8B57",
+                    "chapters": []
                 }
             ]
         }

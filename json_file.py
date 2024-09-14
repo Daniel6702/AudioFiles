@@ -6,15 +6,28 @@ base_url = "https://github.com/Daniel6702/AudioFiles/raw/main/"
 
 # Define the paths for the different Lord of the Rings books
 lotr_book_paths = {
-    "The Fellowship of the Ring": r"02_The_Lord_of_the_Rings\01_The_Fellowship_of_the_Ring",
-    "The Two Towers": r"02_The_Lord_of_the_Rings\02_The_Two_Towers",
-    "The Return of the King": r"02_The_Lord_of_the_Rings\03_The_Return_of_the_King",
-    "The Hobbit": r"02_The_Lord_of_the_Rings\04_The_Hobbit"
+    "The Fellowship of the Ring": "02_The_Lord_of_the_Rings/01_The_Fellowship_of_the_Ring",
+    "The Two Towers": "02_The_Lord_of_the_Rings/02_The_Two_Towers",
+    "The Return of the King": "02_The_Lord_of_the_Rings/03_The_Return_of_the_King",
+    "The Hobbit": "02_The_Lord_of_the_Rings/04_The_Hobbit"
 }
 
 # Load the existing JSON file (replace with your file path if necessary)
 with open('book_series.json', 'r') as json_file:
     book_series_data = json.load(json_file)
+
+# Function to clean up the chapter name
+def clean_chapter_name(file_name):
+    # Remove the number prefix and extension
+    chapter_name = file_name.split('_', 1)[1].replace(".mp3", "")
+    
+    # Replace underscores with spaces
+    chapter_name = chapter_name.replace('_', ' ')
+    
+    # Replace hyphens with spaces and properly title case
+    chapter_name = chapter_name.replace('-', ' ').title()
+    
+    return chapter_name
 
 # Find the Lord of the Rings series by title
 for series in book_series_data["book_series"]:
@@ -32,19 +45,22 @@ for series in book_series_data["book_series"]:
                 # Iterate over the mp3 files in the corresponding book directory
                 for i, file_name in enumerate(os.listdir(book_dir), start=1):
                     if file_name.endswith(".mp3"):
-                        # Extract the chapter name from the file name
-                        chapter_name = file_name.split('_', 1)[1].replace('_', ' ').replace(".mp3", "").title()
+                        try:
+                            # Clean the chapter name using the helper function
+                            chapter_name = clean_chapter_name(file_name)
 
-                        # Create the chapter entry
-                        chapter = {
-                            "id": i,
-                            "name": chapter_name,
-                            "url": f"{base_url}{book_dir}/{file_name}"
-                        }
+                            # Create the chapter entry
+                            chapter = {
+                                "id": i,
+                                "name": chapter_name,
+                                "url": f"{base_url}{book_dir}/{file_name}"
+                            }
 
-                        # Append to the chapters list
-                        chapters.append(chapter)
-
+                            # Append to the chapters list
+                            chapters.append(chapter)
+                        except IndexError:
+                            print(f"Skipping file: {file_name} due to unexpected format.")
+                
                 # Add chapters to the book if they don't already exist
                 if "chapters" not in book:
                     book["chapters"] = chapters
