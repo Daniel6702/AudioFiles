@@ -1549,7 +1549,165 @@
                     "secondary": "#FFD700",
                     "tertiary": "#006400",
                     "quaternary": "#2E8B57",
-                    "chapters": []
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "An Unexpected Party",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/01_An_Unexpected_Party.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Roast Mutton",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/02_Roast_Mutton.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "A Short Rest",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/03_A_Short_Rest.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Over Hill Under Hill",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/04_Over_Hill_Under_Hill.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Riddles In The Dark",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/05_Riddles_In_The_Dark.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Out Of The Frying Pan Into The Fire",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/06_Out_Of_The_Frying_Pan_Into_The_Fire.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Queer Lodgings",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/07_Queer_Lodgings.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Flies Spiders",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/08_Flies_Spiders.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Barrels Out Of Bond",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/09_Barrels_Out_Of_Bond.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "A Warm Welcome",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/10_A_Warm_Welcome.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "On The Doorstep",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/11_On_the_Doorstep.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Inside Information",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/12_Inside_Information.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Not At Home",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/13_Not_at_Home.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Fire And Water",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/14_Fire_and_Water.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "name": "The Gathering Of The Clouds",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/15_The_Gathering_of_the_Clouds.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "name": "A Thief In The Night",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/16_A_Thief_in_the_Night.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "name": "The Clouds Burst",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/17_The_Clouds_Burst.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "name": "The Return Journey",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/18_The_Return_Journey.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "name": "The Last Stage",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/02_The_Lord_of_the_Rings/04_The_Hobbit/19_The_Last_Stage.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "A Song of Ice and Fire",
+            "books": [
+                {
+                    "id": 1,
+                    "coverImageName": "game_of_thrones",
+                    "name": "A Game of Thrones",
+                    "author": "George R.R. Martin",
+                    "releaseYear": "1996",
+                    "lengthInMinutes": 864,
+                    "narrator": "Roy Dotrice",
+                    "description": "In the first book of the epic series, the noble houses of Westeros vie for control of the Iron Throne. As dark forces gather beyond the Wall, the fate of the Seven Kingdoms hangs in the balance.",
+                    "primary": "#000000",
+                    "secondary": "#708090",
+                    "tertiary": "#FFD700",
+                    "quaternary": "#8B4513"
+                },
+                {
+                    "id": 2,
+                    "coverImageName": "clash_of_kings",
+                    "name": "A Clash of Kings",
+                    "author": "George R.R. Martin",
+                    "releaseYear": "1998",
+                    "lengthInMinutes": 1009,
+                    "narrator": "Roy Dotrice",
+                    "description": "In the second book of the series, the War of the Five Kings rages across Westeros as rival claimants fight for the Iron Throne. Meanwhile, Daenerys Targaryen seeks to reclaim her family's throne in the east.",
+                    "primary": "#000000",
+                    "secondary": "#708090",
+                    "tertiary": "#FFD700",
+                    "quaternary": "#8B4513"
+                },
+                {
+                    "id": 3,
+                    "coverImageName": "storm_of_swords",
+                    "name": "A Storm of Swords",
+                    "author": "George R.R. Martin",
+                    "releaseYear": "2000",
+                    "lengthInMinutes": 1177,
+                    "narrator": "Roy Dotrice",
+                    "description": "In the third book of the series, the War of the Five Kings reaches its climax as the fate of Westeros is decided. Meanwhile, Jon Snow and the Night's Watch face the threat of the wildlings and the White Walkers beyond the Wall.",
+                    "primary": "#000000",
+                    "secondary": "#708090",
+                    "tertiary": "#FFD700",
+                    "quaternary": "#8B4513"
+                },
+                {
+                    "id": 4,
+                    "coverImageName": "feast_for_crows",
+                    "name": "A Feast for Crows",
+                    "author": "George R.R. Martin",
+                    "releaseYear": "2005",
+                    "lengthInMinutes": 1080,
+                    "narrator": "Roy Dotrice",
+                    "description": "In the fourth book of the series, the aftermath of the War of the Five Kings is felt across Westeros as new power struggles emerge. Meanwhile, Daenerys Targaryen faces challenges in her quest to reclaim the Iron Throne.",
+                    "primary": "#000000",
+                    "secondary": "#708090",
+                    "tertiary": "#FFD700",
+                    "quaternary": "#8B4513"
                 }
             ]
         }
