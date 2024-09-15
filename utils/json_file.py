@@ -4,12 +4,13 @@ import json
 # Define the base URL structure for audio files
 base_url = "https://github.com/Daniel6702/AudioFiles/raw/main/"
 
-# Define the paths for the different A Song of Ice and Fire books
-asoiaf_book_paths = {
-    "A Game of Thrones": "03_A_Song_of_Ice_and_Fire/01_A_Game_of_Thrones",
-    "A Clash of Kings": "03_A_Song_of_Ice_and_Fire/02_A_Clash_of_Kings",
-    "A Storm of Swords": "03_A_Song_of_Ice_and_Fire/03_A_Storm_of_Swords",
-    "A Feast for Crows": "03_A_Song_of_Ice_and_Fire/04_A_Feast_For_Crows"
+# Define the paths for the different Percy Jackson books
+percy_jackson_book_paths = {
+    "The Lightning Thief": "06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief",
+    "The Sea of Monsters": "06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters",
+    "The Titan's Curse": "06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse",
+    "The Battle of the Labyrinth": "06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth",
+    "The Last Olympian": "06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian"
 }
 
 # Load the existing JSON file (replace with your file path if necessary)
@@ -29,15 +30,15 @@ def clean_chapter_name(file_name):
     
     return chapter_name
 
-# Find the A Song of Ice and Fire series by title
+# Find the Percy Jackson series by title
 for series in book_series_data["book_series"]:
-    if series["title"] == "A Song of Ice and Fire":
-        # Loop through each book in the A Song of Ice and Fire series
+    if series["title"] == "Percy Jackson & the Olympians":
+        # Loop through each book in the Percy Jackson series
         for book in series["books"]:
             # Get the book name and find its corresponding directory
             book_name = book["name"]
-            if book_name in asoiaf_book_paths:
-                book_dir = asoiaf_book_paths[book_name]
+            if book_name in percy_jackson_book_paths:
+                book_dir = percy_jackson_book_paths[book_name]
                 
                 # Initialize an empty list to store chapters
                 chapters = []
@@ -69,4 +70,4 @@ for series in book_series_data["book_series"]:
 with open('book_series.json', 'w') as json_file:
     json.dump(book_series_data, json_file, indent=4)
 
-print("Chapters have been added to the A Song of Ice and Fire books in 'book_series_updated.json'.")
+print("Chapters have been added to the Percy Jackson books in 'book_series_updated.json'.")

@@ -2991,7 +2991,7 @@
         },
         {
             "id": 4,
-            "name": "The Chronicles of Narnia",
+            "title": "The Chronicles of Narnia",
             "books": [
                 {
                     "id": 1,
@@ -3005,7 +3005,54 @@
                     "primary": "#000000",
                     "secondary": "#FFD700",
                     "tertiary": "#8B4513",
-                    "quaternary": "#708090"
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/07_Chapter_07.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 08",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/08_Chapter_08.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 09",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/01_The_Lion,_the_Witch_and_the_Wardrobe/09_Chapter_09.mp3"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
@@ -3019,10 +3066,620 @@
                     "primary": "#000000",
                     "secondary": "#FFD700",
                     "tertiary": "#8B4513",
-                    "quaternary": "#708090"
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 10",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/01_Chapter_10.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 11",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/02_Chapter_11.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 12",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/03_Chapter_12.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 13",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/04_Chapter_13.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 14",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/05_Chapter_14.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 15",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/06_Chapter_15.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 16",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/07_Chapter_16.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 17",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/08_Chapter_17.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 18",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/09_Chapter_18.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Chapter 19",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/10_Chapter_19.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Chapter 20",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/11_Chapter_20.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Chapter 21",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/12_Chapter_21.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Chapter 22",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/13_Chapter_22.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Chapter 23",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/04_The_Chronicles_of_Narnia/02_Prince_Caspian/14_Chapter_23.mp3"
+                        }
+                    ]
                 }
             ]
-
+        },
+        {
+            "id": 5,
+            "title": "The Witcher",
+            "books": [
+                {
+                    "id": 1,
+                    "coverImageName": "the_last_wish",
+                    "name": "The Last Wish",
+                    "author": "Andrzej Sapkowski",
+                    "releaseYear": "1993",
+                    "lengthInMinutes": 540,
+                    "narrator": "Peter Kenny",
+                    "description": "This collection of short stories introduces readers to Geralt of Rivia, a monster hunter known as a Witcher. As Geralt navigates a world filled with magic, politics, and treachery, he must confront his own destiny and the dark forces that threaten the realm.",
+                    "primary": "#000000",
+                    "secondary": "#708090",
+                    "tertiary": "#FFD700",
+                    "quaternary": "#8B4513",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/07_Chapter_07.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 08",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/08_Chapter_08.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 09",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/09_Chapter_09.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Chapter 10",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/10_Chapter_10.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Chapter 11",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/11_Chapter_11.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Chapter 12",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/12_Chapter_12.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Chapter 13",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/13_Chapter_13.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Chapter 14",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/14_Chapter_14.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "name": "Chapter 15",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/15_Chapter_15.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "name": "Chapter 16",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/16_Chapter_16.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "name": "Chapter 17",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/17_Chapter_17.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Chapter 18",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/18_Chapter_18.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Chapter 19",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/19_Chapter_19.mp3"
+                        },
+                        {
+                            "id": 20,
+                            "name": "Chapter 20",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/01_The_Last_Wish/20_Chapter_20.mp3"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "coverImageName": "blood_of_elves",
+                    "name": "Blood of Elves",
+                    "author": "Andrzej Sapkowski",
+                    "releaseYear": "1994",
+                    "lengthInMinutes": 540,
+                    "narrator": "Peter Kenny",
+                    "description": "As war rages across the land, Geralt of Rivia takes on a new mission to protect Ciri, a young princess with a powerful destiny. Alongside his companions, Geralt must navigate a world of political intrigue, magical threats, and ancient prophecies to ensure Ciri's survival and fulfill her potential.",
+                    "primary": "#000000",
+                    "secondary": "#708090",
+                    "tertiary": "#FFD700",
+                    "quaternary": "#8B4513",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/07_Chapter_07.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 08",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/08_Chapter_08.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 09",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/09_Chapter_09.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Chapter 10",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/10_Chapter_10.mp3"
+                        },
+                        {
+                            "id": 11,
+                            "name": "Chapter 11",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/11_Chapter_11.mp3"
+                        },
+                        {
+                            "id": 12,
+                            "name": "Chapter 12",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/12_Chapter_12.mp3"
+                        },
+                        {
+                            "id": 13,
+                            "name": "Chapter 13",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/13_Chapter_13.mp3"
+                        },
+                        {
+                            "id": 14,
+                            "name": "Chapter 14",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/14_Chapter_14.mp3"
+                        },
+                        {
+                            "id": 15,
+                            "name": "Chapter 15",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/15_Chapter_15.mp3"
+                        },
+                        {
+                            "id": 16,
+                            "name": "Chapter 16",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/16_Chapter_16.mp3"
+                        },
+                        {
+                            "id": 17,
+                            "name": "Chapter 17",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/17_Chapter_17.mp3"
+                        },
+                        {
+                            "id": 18,
+                            "name": "Chapter 18",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/18_Chapter_18.mp3"
+                        },
+                        {
+                            "id": 19,
+                            "name": "Chapter 19",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/19_Chapter_19.mp3"
+                        },
+                        {
+                            "id": 20,
+                            "name": "Chapter 20",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/05_The_Witcher/02_Blood_of_Elves/20_Chapter_20.mp3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Percy Jackson & the Olympians",
+            "books": [
+                {
+                    "id": 1,
+                    "coverImageName": "the_lightning_thief",
+                    "name": "The Lightning Thief",
+                    "author": "Rick Riordan",
+                    "releaseYear": "2005",
+                    "lengthInMinutes": 360,
+                    "narrator": "Jesse Bernstein",
+                    "description": "Percy Jackson discovers he is a demigod, the son of Poseidon, and embarks on a quest to prevent a war among the gods. Along the way, he must navigate a world of monsters, magic, and ancient prophecies, all while uncovering the truth about his own identity.",
+                    "primary": "#000000",
+                    "secondary": "#FFD700",
+                    "tertiary": "#8B4513",
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/07_Chapter_07.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 08",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/08_Chapter_08.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 09",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/01_The_Lightning_Thief/09_Chapter_09.mp3"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "coverImageName": "the_sea_of_monsters",
+                    "name": "The Sea of Monsters",
+                    "author": "Rick Riordan",
+                    "releaseYear": "2006",
+                    "lengthInMinutes": 360,
+                    "narrator": "Jesse Bernstein",
+                    "description": "Percy Jackson and his friends embark on a quest to find the mythical Golden Fleece, which has the power to save their home, Camp Half-Blood. Along the way, they encounter new allies, face old enemies, and confront the challenges of the Sea of Monsters.",
+                    "primary": "#000000",
+                    "secondary": "#FFD700",
+                    "tertiary": "#8B4513",
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/02_The_Sea_Of_Monsters/07_Chapter_07.mp3"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "coverImageName": "the_titans_curse",
+                    "name": "The Titan's Curse",
+                    "author": "Rick Riordan",
+                    "releaseYear": "2007",
+                    "lengthInMinutes": 360,
+                    "narrator": "Jesse Bernstein",
+                    "description": "When the goddess Artemis goes missing, Percy Jackson and his friends must embark on a quest to rescue her and prevent a war among the gods. Along the way, they encounter new allies, face old enemies, and confront the challenges of the Titan's Curse.",
+                    "primary": "#000000",
+                    "secondary": "#FFD700",
+                    "tertiary": "#8B4513",
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/03_The_Titans_Curse/07_Chapter_07.mp3"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "coverImageName": "the_battle_of_the_labyrinth",
+                    "name": "The Battle of the Labyrinth",
+                    "author": "Rick Riordan",
+                    "releaseYear": "2008",
+                    "lengthInMinutes": 360,
+                    "narrator": "Jesse Bernstein",
+                    "description": "Percy Jackson and his friends must navigate the treacherous Labyrinth to prevent the rise of the Titan lord Kronos. Along the way, they encounter new allies, face old enemies, and confront the challenges of the Battle of the Labyrinth.",
+                    "primary": "#000000",
+                    "secondary": "#FFD700",
+                    "tertiary": "#8B4513",
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/07_Chapter_07.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 08",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/08_Chapter_08.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 09",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/09_Chapter_09.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Chapter 10",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/04_The_Battle_Of_The_Labyrinth/10_Chapter_10.mp3"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "coverImageName": "the_last_olympian",
+                    "name": "The Last Olympian",
+                    "author": "Rick Riordan",
+                    "releaseYear": "2009",
+                    "lengthInMinutes": 360,
+                    "narrator": "Jesse Bernstein",
+                    "description": "As the final battle between the gods and the Titans looms, Percy Jackson and his friends must defend Olympus and prevent the destruction of Western civilization. Along the way, they encounter new allies, face old enemies, and confront the challenges of the Last Olympian.",
+                    "primary": "#000000",
+                    "secondary": "#FFD700",
+                    "tertiary": "#8B4513",
+                    "quaternary": "#708090",
+                    "chapters": [
+                        {
+                            "id": 1,
+                            "name": "Chapter 01",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/01_Chapter_01.mp3"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Chapter 02",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/02_Chapter_02.mp3"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Chapter 03",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/03_Chapter_03.mp3"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Chapter 04",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/04_Chapter_04.mp3"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Chapter 05",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/05_Chapter_05.mp3"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Chapter 06",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/06_Chapter_06.mp3"
+                        },
+                        {
+                            "id": 7,
+                            "name": "Chapter 07",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/07_Chapter_07.mp3"
+                        },
+                        {
+                            "id": 8,
+                            "name": "Chapter 08",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/08_Chapter_08.mp3"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Chapter 09",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/09_Chapter_09.mp3"
+                        },
+                        {
+                            "id": 10,
+                            "name": "Chapter 10",
+                            "url": "https://github.com/Daniel6702/AudioFiles/raw/main/06_Percy_Jackson_And_The_Olympians/05_The_Last_Olympian/10_Chapter_10.mp3"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
